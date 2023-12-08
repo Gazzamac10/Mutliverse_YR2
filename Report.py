@@ -4,7 +4,7 @@ from styling import custom_styling
 
 st.set_page_config(page_title="My Streamlit App", page_icon=":rocket:", layout="wide", initial_sidebar_state="expanded")
 
-with open( "Styling/styles.css" ) as css:
+with open( "styling/styles.css" ) as css:
     st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
 
 # Create the sidebar links with an indented item
