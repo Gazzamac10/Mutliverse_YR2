@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
+a {
+color: red;
+font-family: sans-serif;
+font-size: 18px;
+text-align: left;
+}
+select {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: white;
+}
+h1 {
+    font-weight: bold;
+    color: rgb(20, 64, 85);
+    font-family: Arial, sans-serif;
+    font-size: 58px;
+    text-align: left;
+}
+h2 {
+    font-weight: bold;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+h3 {
+    font-weight: bold;
+    color: rgb(20, 64, 85);
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+p {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+}
+pi {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    font-style: italic;
+}
+pb {
+    font-weight: bold;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+}
+ptab {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    padding-left: 72px;
+}
+ptab2 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    padding-left: 144px;
+    font-style: italic;
+}
+ptab3 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    padding-left: 32px;
+}
+p1 {
+    color: white;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+p2 {
+    color: Black;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 25px 
+}
+p3 {
+    color: Red;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    #margin-bottom: 24px;
+}
+p4 {
+    color: #d43a2e;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    #margin-bottom: 24px;
+}
+p5 {
+    color: #86325b;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    #margin-bottom: 24px;
+}
+dummy {
+    color: White;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    #line-height: 0.15;
+    #margin-bottom: 0px;
+}
+.katex-html {
+    color: black;
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.st-emotion-cache-1dp5vir {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 0.125rem;
+    background-image: linear-gradient(90deg, rgb(126, 68, 102), rgb(255, 253, 128));
+    z-index: 999990;
+}
+.bullet-point {
+    list-style: disc inside;
+    padding-left: 24px;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+
+.bullet-point li {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+}
+
+ul.bullet-point, ol.bullet-point {
+    margin: 0;
+    padding: 0;
+}
+.custom-sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.custom-sidebar li {
+    margin-left: 20px; /* Adjust the margin as needed for indentation */
+}
+
+.indented-item {
+    margin-left: 20px; /* Adjust the margin for the indented item */
+}
