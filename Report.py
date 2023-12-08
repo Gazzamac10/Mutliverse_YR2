@@ -25,7 +25,7 @@ st.sidebar.markdown('''
 
 st.markdown('<dummy id="Home-1"></dummy>', unsafe_allow_html=True)
 # Add image
-image1  = Image.open('Workbased Project\Images\AecomLogo.png')
+image1  = Image.open('AecomLogo.png')
 resized_image1 = image1.resize((400, 100))
 st.image(resized_image1)
 st.markdown("<h3></h3>", unsafe_allow_html=True)
@@ -36,7 +36,7 @@ st.markdown("<h3></h3>", unsafe_allow_html=True)
 st.write("<h1>Infrastructure and Cybersecurity Report</h1>", unsafe_allow_html=True)
 
 # Add image
-image2  = Image.open('Workbased Project\Images\EcoPredict9.png')
+image2  = Image.open('EcoPredict9.png')
 resized_image2 = image2.resize((1700, 600))
 st.image(resized_image2)
 st.markdown("<h3></h3>", unsafe_allow_html=True)
