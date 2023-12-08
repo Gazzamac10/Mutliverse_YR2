@@ -36,7 +36,7 @@ st.markdown("<h3></h3>", unsafe_allow_html=True)
 st.write("<h1>Infrastructure and Cybersecurity Report</h1>", unsafe_allow_html=True)
 
 # Add image
-image2  = Image.open('RequestFail.png')
+image2  = Image.open('EcoPredict9.png')
 resized_image2 = image2.resize((1700, 600))
 st.image(resized_image2)
 st.markdown("<h3></h3>", unsafe_allow_html=True)
